@@ -1,6 +1,6 @@
-let email = 'joao@hcode.com.br';
+let email = 'leonardo@hcode.com.br';
 
-email = 'glaucio@hcode.com.br';
+email = 'sousa@hcode.com.br';
 
 console.log(email);
 console.log('O seu e-mail é: ' + email);
